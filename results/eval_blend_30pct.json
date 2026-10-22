@@ -1,0 +1,1668 @@
+[
+  {
+    "filename": "car-556-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3796
+  },
+  {
+    "filename": "car-1803-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0474
+  },
+  {
+    "filename": "car-1410-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0896
+  },
+  {
+    "filename": "car-2224-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3572
+  },
+  {
+    "filename": "car-197-Level0_4.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.002
+  },
+  {
+    "filename": "car-119-Level0_6.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.7606
+  },
+  {
+    "filename": "car-1194-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.2669
+  },
+  {
+    "filename": "car-988-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.7583
+  },
+  {
+    "filename": "car-434-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.2615
+  },
+  {
+    "filename": "car-561-Level0_6.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.9973
+  },
+  {
+    "filename": "car-395-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0021
+  },
+  {
+    "filename": "car-1905-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.7642
+  },
+  {
+    "filename": "car-117-Level0_7.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3376
+  },
+  {
+    "filename": "car-1909-Level0_4.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3245
+  },
+  {
+    "filename": "car-1239-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.298
+  },
+  {
+    "filename": "car-907-Level0_7.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.2975
+  },
+  {
+    "filename": "car-1199-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3069
+  },
+  {
+    "filename": "car-1527-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.784
+  },
+  {
+    "filename": "car-1529-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0176
+  },
+  {
+    "filename": "car-1763-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0209
+  },
+  {
+    "filename": "car-604-Level0_5.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3261
+  },
+  {
+    "filename": "car-332-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0415
+  },
+  {
+    "filename": "car-119-Level0_10.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.363
+  },
+  {
+    "filename": "car-2363-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0912
+  },
+  {
+    "filename": "car-1535-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0593
+  },
+  {
+    "filename": "car-1527-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0437
+  },
+  {
+    "filename": "car-142-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.318
+  },
+  {
+    "filename": "car-796-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0657
+  },
+  {
+    "filename": "car-1553-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0579
+  },
+  {
+    "filename": "car-1525-Level0_4.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0482
+  },
+  {
+    "filename": "car-1708-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3654
+  },
+  {
+    "filename": "car-571-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.068
+  },
+  {
+    "filename": "car-2251-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.4418
+  },
+  {
+    "filename": "car-119-Level0_5.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8549
+  },
+  {
+    "filename": "car-1007-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8249
+  },
+  {
+    "filename": "car2-26-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8268
+  },
+  {
+    "filename": "car-1709-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3763
+  },
+  {
+    "filename": "car-1044-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3855
+  },
+  {
+    "filename": "car-103-Level0_10.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8276
+  },
+  {
+    "filename": "car-916-Level0_6.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3763
+  },
+  {
+    "filename": "car-2143-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3852
+  },
+  {
+    "filename": "car-469-Level0_6.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.1024
+  },
+  {
+    "filename": "car-1040-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.4729
+  },
+  {
+    "filename": "car-916-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.1736
+  },
+  {
+    "filename": "car-1205-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.1055
+  },
+  {
+    "filename": "car2-63-Level0_4.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8186
+  },
+  {
+    "filename": "car-1508-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.0963
+  },
+  {
+    "filename": "car-64-Level0_3.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 0.8191
+  },
+  {
+    "filename": "car-7-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3733
+  },
+  {
+    "filename": "car-1141-Level0_6.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3786
+  },
+  {
+    "filename": "car-194-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3615
+  },
+  {
+    "filename": "car-1633-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3979
+  },
+  {
+    "filename": "car-1935-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.4275
+  },
+  {
+    "filename": "car2-54-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.1577
+  },
+  {
+    "filename": "car-2237-Level0_1.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3587
+  },
+  {
+    "filename": "car-800-Level0_2.jpg",
+    "ground_truth": "no flood",
+    "prediction": "no flood",
+    "correct": true,
+    "latency_s": 1.3426
+  },
+  {
+    "filename": "car-1364-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7939
+  },
+  {
+    "filename": "car-573-Level2_8.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3329
+  },
+  {
+    "filename": "car-662-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0713
+  },
+  {
+    "filename": "car-1191-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.7957
+  },
+  {
+    "filename": "car-596-Level2_9.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0633
+  },
+  {
+    "filename": "car-365-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.1043
+  },
+  {
+    "filename": "car-192-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3792
+  },
+  {
+    "filename": "car-844-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3244
+  },
+  {
+    "filename": "car-120-Level1_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0377
+  },
+  {
+    "filename": "car2-22-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0458
+  },
+  {
+    "filename": "car-254-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0511
+  },
+  {
+    "filename": "car-1739-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0315
+  },
+  {
+    "filename": "car-2260-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7873
+  },
+  {
+    "filename": "car-1734-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0423
+  },
+  {
+    "filename": "car-106-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3196
+  },
+  {
+    "filename": "car-1350-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3604
+  },
+  {
+    "filename": "car-1406-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.8436
+  },
+  {
+    "filename": "car-517-Level2_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.0846
+  },
+  {
+    "filename": "car-2235-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0395
+  },
+  {
+    "filename": "car-1022-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7837
+  },
+  {
+    "filename": "car-2083-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3171
+  },
+  {
+    "filename": "car-702-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3201
+  },
+  {
+    "filename": "car-279-Level1_9.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3126
+  },
+  {
+    "filename": "car-315-Level2_8.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.321
+  },
+  {
+    "filename": "car-784-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7806
+  },
+  {
+    "filename": "car-2241-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0501
+  },
+  {
+    "filename": "car-421-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0912
+  },
+  {
+    "filename": "car-1334-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.8353
+  },
+  {
+    "filename": "car-1146-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.9022
+  },
+  {
+    "filename": "car-1419-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.042
+  },
+  {
+    "filename": "car-534-Level2_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0463
+  },
+  {
+    "filename": "car-1434-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0486
+  },
+  {
+    "filename": "car-1962-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0633
+  },
+  {
+    "filename": "car-645-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3398
+  },
+  {
+    "filename": "car-1939-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8007
+  },
+  {
+    "filename": "car-422-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3436
+  },
+  {
+    "filename": "car2-25-Level2_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8171
+  },
+  {
+    "filename": "car-2042-Level2_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.4215
+  },
+  {
+    "filename": "car-2344-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.1397
+  },
+  {
+    "filename": "car-297-Level2_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3508
+  },
+  {
+    "filename": "car-1749-Level2_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0634
+  },
+  {
+    "filename": "car-445-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.7996
+  },
+  {
+    "filename": "car-606-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0875
+  },
+  {
+    "filename": "car-60-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0683
+  },
+  {
+    "filename": "car-1653-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0566
+  },
+  {
+    "filename": "car-1751-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0606
+  },
+  {
+    "filename": "car-598-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.8287
+  },
+  {
+    "filename": "car-2279-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8541
+  },
+  {
+    "filename": "car-659-Level1_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.4079
+  },
+  {
+    "filename": "car-2010-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.1364
+  },
+  {
+    "filename": "car-475-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3719
+  },
+  {
+    "filename": "car-658-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0663
+  },
+  {
+    "filename": "car-2065-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0803
+  },
+  {
+    "filename": "car-1461-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8062
+  },
+  {
+    "filename": "car-1444-Level1_9.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7978
+  },
+  {
+    "filename": "car-2287-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8007
+  },
+  {
+    "filename": "car-573-Level2_7.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0717
+  },
+  {
+    "filename": "car-2002-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3649
+  },
+  {
+    "filename": "car2-42-Level2_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.1184
+  },
+  {
+    "filename": "car-1619-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.1036
+  },
+  {
+    "filename": "car-2195-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8815
+  },
+  {
+    "filename": "car-1606-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.356
+  },
+  {
+    "filename": "car-543-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3378
+  },
+  {
+    "filename": "car-860-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.063
+  },
+  {
+    "filename": "car-2249-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3506
+  },
+  {
+    "filename": "car-1458-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3413
+  },
+  {
+    "filename": "car-1969-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.0517
+  },
+  {
+    "filename": "car-1807-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.1265
+  },
+  {
+    "filename": "car-1926-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8329
+  },
+  {
+    "filename": "car-1041-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.1015
+  },
+  {
+    "filename": "car-2355-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0554
+  },
+  {
+    "filename": "car-914-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0476
+  },
+  {
+    "filename": "car-117-Level2_8.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.8122
+  },
+  {
+    "filename": "car-476-Level2_6.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0432
+  },
+  {
+    "filename": "car-2354-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0478
+  },
+  {
+    "filename": "car-868-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.7873
+  },
+  {
+    "filename": "car-1623-Level1_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0433
+  },
+  {
+    "filename": "car-1065-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3333
+  },
+  {
+    "filename": "car-1306-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.7997
+  },
+  {
+    "filename": "car-1774-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.8285
+  },
+  {
+    "filename": "car-1427-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3897
+  },
+  {
+    "filename": "car-1684-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0853
+  },
+  {
+    "filename": "car-936-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3185
+  },
+  {
+    "filename": "car-1637-Level1_6.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.335
+  },
+  {
+    "filename": "car-2153-Level1_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3243
+  },
+  {
+    "filename": "car-1953-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0424
+  },
+  {
+    "filename": "car-949-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3158
+  },
+  {
+    "filename": "car-2346-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3273
+  },
+  {
+    "filename": "car-573-Level2_9.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.1139
+  },
+  {
+    "filename": "car-2300-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8406
+  },
+  {
+    "filename": "car-2097-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0846
+  },
+  {
+    "filename": "car-111-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.7945
+  },
+  {
+    "filename": "car-2235-Level2_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0391
+  },
+  {
+    "filename": "car-641-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.052
+  },
+  {
+    "filename": "car-564-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3472
+  },
+  {
+    "filename": "car-567-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3328
+  },
+  {
+    "filename": "car-899-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7961
+  },
+  {
+    "filename": "car-1341-Level2_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.7952
+  },
+  {
+    "filename": "car-1024-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.7958
+  },
+  {
+    "filename": "car-785-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 0.7881
+  },
+  {
+    "filename": "car-1377-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0963
+  },
+  {
+    "filename": "car-1637-Level1_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0934
+  },
+  {
+    "filename": "car-975-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8507
+  },
+  {
+    "filename": "car-1623-Level1_5.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3319
+  },
+  {
+    "filename": "car-1164-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0512
+  },
+  {
+    "filename": "car-360-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.7938
+  },
+  {
+    "filename": "car-839-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.0556
+  },
+  {
+    "filename": "car-390-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.347
+  },
+  {
+    "filename": "car-573-Level2_10.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3486
+  },
+  {
+    "filename": "car-1434-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0562
+  },
+  {
+    "filename": "car-493-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.8737
+  },
+  {
+    "filename": "car-1158-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.1323
+  },
+  {
+    "filename": "car-498-Level1_7.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.4234
+  },
+  {
+    "filename": "car-661-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.0628
+  },
+  {
+    "filename": "car-828-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0564
+  },
+  {
+    "filename": "car-790-Level1_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3479
+  },
+  {
+    "filename": "car-2105-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0707
+  },
+  {
+    "filename": "car2-31-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8114
+  },
+  {
+    "filename": "car-2260-Level2_4.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3377
+  },
+  {
+    "filename": "car-813-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 0.8073
+  },
+  {
+    "filename": "car-2233-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.064
+  },
+  {
+    "filename": "car-1647-Level2_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0967
+  },
+  {
+    "filename": "car-1346-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.4067
+  },
+  {
+    "filename": "car-1780-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.0596
+  },
+  {
+    "filename": "car-2006-Level2_3.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3338
+  },
+  {
+    "filename": "car-508-Level2_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "small flood",
+    "correct": true,
+    "latency_s": 1.3364
+  },
+  {
+    "filename": "car-1448-Level1_1.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.8049
+  },
+  {
+    "filename": "car-201-Level1_2.jpg",
+    "ground_truth": "small flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0705
+  },
+  {
+    "filename": "car-1876-Level2_6.jpg",
+    "ground_truth": "small flood",
+    "prediction": "big flood",
+    "correct": false,
+    "latency_s": 1.064
+  },
+  {
+    "filename": "car-1789-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7958
+  },
+  {
+    "filename": "car-2050-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8111
+  },
+  {
+    "filename": "car-1206-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.1118
+  },
+  {
+    "filename": "car-248-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.8325
+  },
+  {
+    "filename": "car-1859-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.116
+  },
+  {
+    "filename": "car-52-Level4_3.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.0477
+  },
+  {
+    "filename": "car-1845-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8037
+  },
+  {
+    "filename": "car-248-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.3377
+  },
+  {
+    "filename": "car-501-Level3_5.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0518
+  },
+  {
+    "filename": "car-104-Level4_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3301
+  },
+  {
+    "filename": "car-1725-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.0561
+  },
+  {
+    "filename": "car-881-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.0604
+  },
+  {
+    "filename": "car-2214-Level4_6.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7949
+  },
+  {
+    "filename": "car-633-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.8682
+  },
+  {
+    "filename": "car-856-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8395
+  },
+  {
+    "filename": "car-118-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.5977
+  },
+  {
+    "filename": "car-2341-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.8536
+  },
+  {
+    "filename": "car-1890-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.0466
+  },
+  {
+    "filename": "car-1690-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8002
+  },
+  {
+    "filename": "car-1849-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7892
+  },
+  {
+    "filename": "car-76-Level3_3.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7904
+  },
+  {
+    "filename": "car-1875-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7957
+  },
+  {
+    "filename": "car-1435-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8042
+  },
+  {
+    "filename": "car-651-Level3_5.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.3217
+  },
+  {
+    "filename": "car-1014-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.5398
+  },
+  {
+    "filename": "car-2322-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7928
+  },
+  {
+    "filename": "car-1173-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7916
+  },
+  {
+    "filename": "car-1071-Level3_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.0858
+  },
+  {
+    "filename": "car-210-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8669
+  },
+  {
+    "filename": "car4-61-Level4_4.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8285
+  },
+  {
+    "filename": "car-2108-Level3_5.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.3345
+  },
+  {
+    "filename": "car-1786-Level4_9.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.0441
+  },
+  {
+    "filename": "car-2130-Level3_3.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7909
+  },
+  {
+    "filename": "car-1608-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.0475
+  },
+  {
+    "filename": "car-2108-Level4_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.3503
+  },
+  {
+    "filename": "car-2214-Level4_7.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8006
+  },
+  {
+    "filename": "car-1665-Level3_59.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.0419
+  },
+  {
+    "filename": "car-135-Level4_7.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.809
+  },
+  {
+    "filename": "car-504-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 1.1176
+  },
+  {
+    "filename": "car-177-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 1.122
+  },
+  {
+    "filename": "car-458-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8365
+  },
+  {
+    "filename": "car-2013-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8129
+  },
+  {
+    "filename": "car-1676-Level4_2.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7872
+  },
+  {
+    "filename": "car-1227-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7914
+  },
+  {
+    "filename": "car-2214-Level4_5.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7904
+  },
+  {
+    "filename": "car-441-Level4_4.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.0519
+  },
+  {
+    "filename": "car-1593-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.7871
+  },
+  {
+    "filename": "car-2280-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "no flood",
+    "correct": false,
+    "latency_s": 0.7997
+  },
+  {
+    "filename": "car-711-Level3_5.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 1.3371
+  },
+  {
+    "filename": "car-752-Level3_3.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.796
+  },
+  {
+    "filename": "car-1290-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.7939
+  },
+  {
+    "filename": "car2-68-Level4_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "big flood",
+    "correct": true,
+    "latency_s": 0.8623
+  },
+  {
+    "filename": "car-1839-Level3_1.jpg",
+    "ground_truth": "big flood",
+    "prediction": "small flood",
+    "correct": false,
+    "latency_s": 0.8606
+  }
+]

@@ -1,0 +1,11 @@
+# Analysis only (run_urtc_significance.py, plot_urtc_robustness.py):
+numpy
+matplotlib
+statsmodels
+scikit-learn
+Pillow
+
+# Additionally required to re-run the perturbation experiments on a GPU:
+torch
+transformers
+peft
